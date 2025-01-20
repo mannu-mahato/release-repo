@@ -1,0 +1,9 @@
+{
+  "name": "release-test",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build script defined.'"
+    // other scripts...
+  },
+  // other configuration...
+}
